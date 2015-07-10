@@ -1,13 +1,5 @@
 package cn.wenzhu.designpattern.strategy;
 
-/**
- * 
- * 名称: CashContext.java<br>
- * 描述: 策略模式，商城打折<br>
- * 语言: JAVA<br>
- * @since  2015年4月1日
- * @author jy.chen
- */
 public class CashContext {
     private CashSuper cs;
     
